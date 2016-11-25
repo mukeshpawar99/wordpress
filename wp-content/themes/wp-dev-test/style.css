@@ -1,0 +1,11 @@
+/*
+ Theme Name:     twentysixteen Child Theme
+ Theme URI: 	 https://wordpress.org/themes/twentysixteen/
+ Description:    twentysixteen Child Theme
+ Author:         the WordPress team
+ Author URI:     https://wordpress.org/
+ Template:       twentysixteen
+ Version:        1.0.0
+*/
+ 
+@import url("../twentysixteen/style.css");
